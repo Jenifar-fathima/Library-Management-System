@@ -8,4 +8,8 @@
     <ProjectReference Include="..\LibraryManagementSystem.Common\LibraryManagementSystem.Common.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="TableObjects\" />
+  </ItemGroup>
+
 </Project>
